@@ -5,8 +5,8 @@
 - ⚡ Fun fact: 
 
 ** Connect with Me:**
-[![Twitter](https://www.freepnglogos.com/uploads/twitter-logo-png/who-is-using-twitter-png-logo-27.png)][1]
-[![LinkedIn](https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png)][2]
+[![Twitter](https://cdn-icons-png.flaticon.com/256/1409/1409937.png)][1]
+[![LinkedIn](https://cdn-icons-png.flaticon.com/256/1409/1409945.png)][2]
 
 
 [1]: https://www.twitter.com/macbhaldar

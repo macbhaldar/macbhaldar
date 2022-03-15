@@ -6,7 +6,7 @@
 
 #### Connect with Me:
 
-[![Mail](https://cdn-icons-png.flaticon.com/512/888/888853.png)[1]
+[![Mail](https://cdn-icons-png.flaticon.com/32/888/888853.png)[1]
 [![Twitter](https://cdn-icons-png.flaticon.com/32/1409/1409937.png)][2]
 [![LinkedIn](https://cdn-icons-png.flaticon.com/32/1409/1409945.png)][3]
 

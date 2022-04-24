@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maksud Bhaldar.
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 📫 my email Id : macbhaldar@gmail.com
-- 🦩 Kaggle Id : https://www.kaggle.com/macbhaldar
+- 🦩  Kaggle Id : https://www.kaggle.com/macbhaldar
 
 ### ✉️ Connect with Me:
 
@@ -16,5 +16,4 @@
 ### My Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=macbhaldar&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macbhaldar&theme=tokyonight)

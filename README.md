@@ -17,4 +17,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=macbhaldar&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macbhaldar&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macbhaldar&hide=Jupyter Notebook&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macbhaldar&hide=Top Langs,Jupyter Notebook&theme=tokyonight)

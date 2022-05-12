@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Maksud Bhaldar.
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 📫 my email Id : macbhaldar@gmail.com
-- 🦩  Kaggle Id : https://www.kaggle.com/macbhaldar
 
 ### ✉️ Connect with Me:
 

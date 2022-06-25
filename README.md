@@ -14,5 +14,5 @@
 
 ### My Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=macbhaldar&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macbhaldar&hide=jupyter%20notebook&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=macbhaldar&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macbhaldar&hide=jupyter%20notebook&langs_count=3)

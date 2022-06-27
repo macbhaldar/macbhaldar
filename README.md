@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Maksud Bhaldar</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=macbhaldar" alt="macbhaldar" /> </p>
 <h3 align="center">Data Analyst  |  Data Scientist </h3>
 
 <p align="center">
@@ -77,8 +78,5 @@
 <br/>
 
 ## My Github Stats
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=macbhaldar" alt="macbhaldar" /> </p>
-<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=macbhaldar&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macbhaldar&hide=jupyter%20notebook&langs_count=3)

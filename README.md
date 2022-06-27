@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/macbhaldar/macbhaldar/main/Hi.gif" width="4px">, I'm Maksud Bhaldar</h1>
+<h1 align="center">Hi, I'm Maksud Bhaldar</h1>
 <h3 align="center">Data Analyst  |  Data Scientist </h3>
 
 <p align="center">

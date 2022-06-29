@@ -22,10 +22,10 @@
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/python-3670A0?style=flate&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flate&logo=R&logoColor=white">
-  <img src="https://img.shields.io/badge/Matlab-3F4F75?style=flate&logo=MATLAB&logoColor=black">
-  <img src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL&logoColor=blue&color=0B2C4A">
+  <img src="https://img.shields.io/badge/Python-356A97?style=flate&logo=python&logoColor=F6D54A">
+  <img src="https://img.shields.io/badge/R-2165B6?style=flate&logo=R&logoColor=white">
+  <img src="https://img.shields.io/badge/MATLAB-B9490E?style=flate&logo=MATLAB&logoColor=black">
+  <img src="https://img.shields.io/badge/-SQL-005C85?style=flat&logo=MySQL&logoColor=white&color=005C85">
   
 </span>
 
@@ -38,26 +38,31 @@
 
 <h4> IDE </h4>
 <span>
-<img src="https://img.shields.io/badge/RStudio-0078D4?style=flate&logo=rstudio&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-%23575757.svg?&style=flate&logo=Jupyter&logoColor=important">
-<img src="https://img.shields.io/badge/Spyder-838485?style=flate&logo=spyder%20ide&logoColor=maroon">
-<img src="https://img.shields.io/badge/pycharm-4EA94B?style=flate&logo=pycharm&logoColor=black">
+<img src="https://img.shields.io/badge/RStudio-71A3D4?style=flate&logo=rstudio&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-575757.svg?&style=flate&logo=Jupyter&logoColor=EB7325">
+<img src="https://img.shields.io/badge/Spyder-F7F7F7?style=flate&logo=spyder%20ide&logoColor=880606">
+<img src="https://img.shields.io/badge/PyCharm-1FD087?style=flate&logo=pycharm&logoColor=black">
 <img src="https://img.shields.io/badge/Colab-F7931E?style=flate&logo=Google-Colab&logoColor=white">
-<img src="https://img.shields.io/badge/Octave-darkblue?style=flate&logo=Octave&logoColor=white">
+<img src="https://img.shields.io/badge/Octave-1F9AC2?style=flate&logo=Octave&logoColor=F87B2B">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flate&logo=visual%20studio%20code&logoColor=white">
 
 <h4> Data Visualization </h4>
 <span>
-  <img src="https://img.shields.io/badge/Tableau-FCC624?style=flat&logo=Tableau&logoColor=black">
-  <img src="https://img.shields.io/badge/PowerBI-E95420?style=flat&logo=PowerBI&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-F9F9F9?style=flat&logo=Tableau&logoColor=E1752F">
+  <img src="https://img.shields.io/badge/PowerBI-E6B711?style=flat&logo=PowerBI&logoColor=white">
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/seaborn-FCC624?style=flat&logo=seaborn&logoColor=black">
-  <img src="https://img.shields.io/badge/ggplot-FCC624?style=flat&logo=ggplot&logoColor=black">
+  <img src="https://img.shields.io/badge/Seaborn-585F89?style=flat&logo=seaborn&logoColor=black">
+  <img src="https://img.shields.io/badge/ggplot-F2F2F2.svg?style=flat&logo=gg-plot&logoColor=black">
 
+<h4> Python </h4>
+<span>
+  <img src="https://img.shields.io/badge/Numpy-727BB4?style=flat&logo=numpy&logoColor=white">
+	<img src="https://img.shields.io/badge/Pandas-F2F2F2?style=flat&logo=pandas&logoColor=black">
+  <img src="https://img.shields.io/badge/Matplotlib-FF6F00?style=flat&logo=Matplotlib&logoColor=white">
 
 <h4> Machine Learning </h4>
 <span>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white">
@@ -82,3 +87,5 @@
 ## My Github Stats
 
 <img align="" height='180px' src="https://github-readme-stats.vercel.app/api?username=macbhaldar&hide_title=false&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=macbhaldar&hide_title=false&hide=jupyter%20notebook&langs_count=3&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+
+<img align="" height='180px' src="https://github-readme-streak-stats.herokuapp.com/?user=macbhaldar"/><img align="" height='180px' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=macbhaldar&theme=vue"/>

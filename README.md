@@ -9,7 +9,7 @@
  <a href = "https://macbhaldar.github.io"><img align="center" src="https://simpleicons.org/icons/github.svg" height="30" width="40" /></a>
 </p>
 </p>
-
+<br>
 
 ✔ Hi, I’m Maksud Bhaldar. I am Bachelors in Physics from Y.C.I.S. Satara. <br> 
 ✔ I am a tech enthusiast & a self learner. <br>
@@ -77,9 +77,10 @@
 <span>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Obsidian-07405E?style=flat&logo=obsidian&logoColor=white">
 </span>
 
 <br/>

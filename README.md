@@ -34,6 +34,6 @@ Other Tools              | <img src="https://img.shields.io/badge/Microsoft_Exce
 
 ## My Github Stats
 
-<img align="" height='180px' src="https://github-readme-stats.vercel.app/api?username=macbhaldar&hide_title=false&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=macbhaldar&hide_title=false&hide=jupyter%20notebook&langs_count=3&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<img align="" height='180px' src="https://github-readme-stats.vercel.app/api?username=macbhaldar&hide_title=false&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=macbhaldar&layout=compact&hide_title=false&hide=jupyter%20notebook&langs_count=5&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
 <img align="" height='180px' src="https://github-readme-streak-stats.herokuapp.com/?user=macbhaldar"/><img align="" height='180px' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=macbhaldar&theme=vue"/>

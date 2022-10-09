@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Maksud Bhaldar</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=macbhaldar" alt="macbhaldar" /> </p>
-<h3 align="center">Data Analyst  |  Data Scientist </h3>
+<h3 align="center">Data Analyst </h3>
 
 <p align="center">
  <a href = "mailto: macbhaldar@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>

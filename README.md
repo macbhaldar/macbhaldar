@@ -31,9 +31,3 @@ Databases                | <img src="https://img.shields.io/badge/MySQL-005C85?s
 Operating System         | <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
 Other Tools              | <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white"> <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Obsidian-47359A?style=flat&logo=obsidian&logoColor=white">
 <br/>
-
-## My Github Stats
-
-<img align="" height='180px' src="https://github-readme-stats.vercel.app/api?username=macbhaldar&hide_title=false&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=macbhaldar&layout=compact&hide_title=false&hide=jupyter%20notebook&langs_count=5&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
-
-<img align="" height='180px' src="https://github-readme-streak-stats.herokuapp.com/?user=macbhaldar"/><img align="" height='180px' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=macbhaldar&theme=vue"/>

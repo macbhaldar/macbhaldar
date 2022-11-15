@@ -2,18 +2,18 @@
 <h3 align="center">Data Analyst </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=macbhaldar" alt="macbhaldar" /> </p>
 <p align="center">
- <a href = "mailto: macbhaldar@gmail.com"><img align="center" src="https://github.com/macbhaldar/macbhaldar/blob/main/img/gmail.svg" height="35" width="45" /></a>
-<a href="https://www.linkedin.com/in/macbhaldar/" target="blank"><img align="center" src="https://github.com/macbhaldar/macbhaldar/blob/main/img/linked-in.svg" alt="Maksud" height="28" width="40" /></a>
-<a href="https://www.twitter.com/macbhaldar/" target="blank"><img align="center" src="https://github.com/macbhaldar/macbhaldar/blob/main/img/twitter.svg" alt="Maksud" height="30" width="40" /></a>
- <a href = "https://pinterest.com/macbhaldar/"><img align="center" src="https://github.com/macbhaldar/macbhaldar/blob/main/img/pinterest.svg" height="30" width="40" />
+ <a href = "mailto: macbhaldar@gmail.com"><img align="center" src="https://github.com/macbhaldar/macbhaldar/blob/main/img/gmail.png" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/macbhaldar/" target="blank"><img align="center" src="https://github.com/macbhaldar/macbhaldar/blob/main/img/linkedin.png" alt="Maksud" height="35" width="35" /></a>
+<a href="https://www.twitter.com/macbhaldar/" target="blank"><img align="center" src="https://github.com/macbhaldar/macbhaldar/blob/main/img/twitter.png" alt="Maksud" height="35" width="35" /></a>
+ <a href = "https://pinterest.com/macbhaldar/"><img align="center" src="https://github.com/macbhaldar/macbhaldar/blob/main/img/pinterest.png" height="35" width="35" />
 </p>
 <br>
-
+ 
 ✔ Hi, I’m Maksud Bhaldar. An Data Analyst with a passion of AI and Deep Learning. Here's a little about me! <br> 
 ✔ I am a tech enthusiast & a self learner. I love coding. <br>
 ✔ I’m currently learning Machine Learning and Deep Learning. <br>
 ✔ Fun fact: I love Photography, Travelling. <br>
-✔ Check out my portfolio here <a href = "https://macbhaldar.github.io"><img align="center" src="https://github.com/macbhaldar/macbhaldar/blob/main/img/account.png" height="20" width="20" /></a> and my works here <a href = "https://drive.google.com/drive/folders/1bX3IuY2YC1XSzWwCdx3dBKz9hEUpcviV"><img align="center" src="https://github.com/macbhaldar/macbhaldar/blob/main/img/drive.svg" height="20" width="20" /></a>
+✔ Check out my portfolio here <a href = "https://macbhaldar.github.io"><img align="center" src="https://github.com/macbhaldar/macbhaldar/blob/main/img/person-male.png" height="15" width="15" /></a> and my works here <a href = "https://drive.google.com/drive/folders/1bX3IuY2YC1XSzWwCdx3dBKz9hEUpcviV"><img align="center" src="https://github.com/macbhaldar/macbhaldar/blob/main/img/drive.svg" height="15" width="15" /></a>
 
 <br/>
 
